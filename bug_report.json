@@ -1,1 +1,12 @@
-
+{
+    "ID":"0001",
+    "Tatle":"what, where, under what conditions",
+    "Project":"project_name 394.87",
+    "Severity":"S2",
+    "Priority":"P2",
+    "Status":"New",
+    "STR":"1..., 2..., 3..., 4..., 5...,",
+    "expected result":"everything is fine"
+    "actual result":"everything is bad"
+  
+}
